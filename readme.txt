@@ -1,2 +1,2 @@
 this is a test file!
-create a new branch is quickly!
+create a new branch is quickly and simple
